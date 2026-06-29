@@ -93,6 +93,7 @@ This project demonstrates the following Power BI skills:
 ---
 ## Author
 **Nishi Kumari Yadav**
+
 Aspiring Data Analyst
 Skilled in Power BI, Excel, Power Query, DAX, and Data Visualization.
 
