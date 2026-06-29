@@ -1,7 +1,6 @@
 # Swiggy Instamart Sales Analysis Dashboard
 ## Project Overview
 The Swiggy Instamart Sales Analysis Dashboard is an interactive Power BI project designed to analyze sales performance and provide actionable business insights. The dashboard transforms raw sales data into meaningful visualizations, helping stakeholders monitor key business metrics and make data-driven decisions.
-This project focuses on analyzing overall sales, order volume, customer ratings, product category performance, shop types, shop sizes, city tiers, and shop opening year trends. Interactive filters allow users to explore the data from different perspectives, making the dashboard easy to use and highly informative.
 
 ---
 ## Dashboard Preview
