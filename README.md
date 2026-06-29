@@ -5,7 +5,7 @@ This project focuses on analyzing overall sales, order volume, customer ratings,
 
 ---
 ## Dashboard Preview
-![Dashboard Overview](Dashboard_Overview.png)
+![Dashboard Overview](Dashboard_Overview.png.png)
 ## Objective
 The primary objective of this project is to:
 - Analyze overall sales performance.
