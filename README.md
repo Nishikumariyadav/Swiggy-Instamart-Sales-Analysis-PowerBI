@@ -42,8 +42,6 @@ The following data preparation steps were performed:
 - Built relationships between tables.
 - Created a Star Schema data model.
 ---
-## Data Model
-A star schema data model was created to establish relationships between fact and dimension tables. The model improves query performance, simplifies DAX calculations, and ensures accurate reporting across all dashboard visuals.
 ## DAX Measures Created
 Some important DAX measures used in this project include:
 - Total Sales
@@ -81,9 +79,6 @@ Some important DAX measures used in this project include:
 This project demonstrates the following Power BI skills:
 - Data Cleaning
 - Data Transformation
-- Data Modeling
-- Star Schema Design
-- Relationship Management
 - DAX Measures
 - KPI Development
 - Interactive Dashboard Design
